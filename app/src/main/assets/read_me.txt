@@ -4,7 +4,8 @@
 
 2、进入Repositories，点击右侧“new”，输入一个仓库名称，创建当前仓库。
 
-3、创建后仓库后，就有对应的仓库地址，在VCS中checkout from version contorl检出代码
+3、创建后仓库后，就有对应的仓库地址，在顶部"VCS"--->checkout from version contorl-->github,
+输入代码地址，检出代码
 
 如何创建自己的Github代码仓库并可以被其他人作为库引用
 

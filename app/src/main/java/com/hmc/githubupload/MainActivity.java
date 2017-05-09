@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG,"xxxxxxxxxxxxxxxxxxxxxxxxxxxx");
     }
 
+
+
     @Override
     protected void onDestroy() {
         super.onDestroy();

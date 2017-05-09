@@ -6,6 +6,7 @@ import android.graphics.Bitmap;
 /**
  * 项目名称：app_android_dealer
  * 类描述：根据字符串信息生成二维码图片
+ *
  * 创建人：Administrator
  * 创建时间：2017-02-27
  */
